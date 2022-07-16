@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shreyasv/Desktop/CEERI/mlkit/android/vision-quickstart/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "outputFile": "com.google.mlkit.vision.demo.app-mergeDebugResources-18:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/81ccc4f9fde928c75264b65317f0ebeb/transformed/appcompat-1.2.0/res/values-port/values-port.xml",
+                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/d2dbe77e000b69d8b7355288ad608163/transformed/appcompat-1.2.0/res/values-port/values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

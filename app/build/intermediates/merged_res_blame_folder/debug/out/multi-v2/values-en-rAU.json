@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shreyasv/Desktop/CEERI/mlkit/android/vision-quickstart/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml",
+            "outputFile": "com.google.mlkit.vision.demo.app-mergeDebugResources-18:/values-en-rAU/values-en-rAU.xml",
             "map": [
                 {
-                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/81ccc4f9fde928c75264b65317f0ebeb/transformed/appcompat-1.2.0/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/d2dbe77e000b69d8b7355288ad608163/transformed/appcompat-1.2.0/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/a4ddd5336e4c3374859fa27920a2dc67/transformed/core-1.6.0/res/values-en-rAU/values-en-rAU.xml",
+                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/e81a46ce724630cf8c3f5fda3ef39b62/transformed/core-1.6.0/res/values-en-rAU/values-en-rAU.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

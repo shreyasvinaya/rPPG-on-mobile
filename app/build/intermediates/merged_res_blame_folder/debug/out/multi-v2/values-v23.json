@@ -1,10 +1,20 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shreyasv/Desktop/CEERI/mlkit/android/vision-quickstart/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+            "outputFile": "com.google.mlkit.vision.demo.app-mergeDebugResources-18:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/81ccc4f9fde928c75264b65317f0ebeb/transformed/appcompat-1.2.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/20da786c0a0f0d44bdf934c1c88da8cb/transformed/work-runtime-2.7.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,121",
+                        "endColumns": "65,62",
+                        "endOffsets": "116,179"
+                    }
+                },
+                {
+                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/d2dbe77e000b69d8b7355288ad608163/transformed/appcompat-1.2.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -16,20 +26,10 @@
                     "to": {
                         "startLines": "4,5,6,7,8,22,36,37,38,41,45,46,47,48",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "184,319,454,529,616,1500,2396,2515,2642,2864,3088,3203,3310,3423",
+                        "startOffsets": "184,319,454,529,616,1354,2104,2223,2350,2572,2796,2911,3018,3131",
                         "endLines": "4,5,6,7,21,35,36,37,40,44,45,46,47,51",
                         "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
-                        "endOffsets": "314,449,524,611,1495,2391,2510,2637,2859,3083,3198,3305,3418,3648"
-                    }
-                },
-                {
-                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/187a7fefd4095e3248834400e2a59a25/transformed/work-runtime-2.7.0/res/values-v23/values-v23.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,121",
-                        "endColumns": "65,62",
-                        "endOffsets": "116,179"
+                        "endOffsets": "314,449,524,611,1349,2099,2218,2345,2567,2791,2906,3013,3126,3356"
                     }
                 }
             ]

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/shreyasv/Desktop/CEERI/mlkit/android/vision-quickstart/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
+            "outputFile": "com.google.mlkit.vision.demo.app-mergeDebugResources-18:/values-nl/values-nl.xml",
             "map": [
                 {
-                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/a4ddd5336e4c3374859fa27920a2dc67/transformed/core-1.6.0/res/values-nl/values-nl.xml",
+                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/e81a46ce724630cf8c3f5fda3ef39b62/transformed/core-1.6.0/res/values-nl/values-nl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/81ccc4f9fde928c75264b65317f0ebeb/transformed/appcompat-1.2.0/res/values-nl/values-nl.xml",
+                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/d2dbe77e000b69d8b7355288ad608163/transformed/appcompat-1.2.0/res/values-nl/values-nl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,24 +38,7 @@
                     }
                 },
                 {
-                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/5c717c2cf57227ebe61f51a0cbce00de/transformed/jetified-play-services-basement-18.0.1/res/values-nl/values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "138",
-                        "endOffsets": "333"
-                    },
-                    "to": {
-                        "startLines": "37",
-                        "startColumns": "4",
-                        "startOffsets": "3857",
-                        "endColumns": "142",
-                        "endOffsets": "3995"
-                    }
-                },
-                {
-                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/02cca94b4508c3c16b524a477e3cf9d8/transformed/jetified-play-services-base-18.0.1/res/values-nl/values.xml",
+                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/ae7b380ee971f5e8f51cd6fc009ff4cf/transformed/jetified-play-services-base-18.0.1/res/values-nl/values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -69,6 +52,23 @@
                         "startOffsets": "2832,2940,3095,3223,3334,3501,3628,3751,4000,4178,4284,4453,4579,4742,4924,4992,5055",
                         "endColumns": "107,154,127,110,166,126,122,105,177,105,168,125,162,181,67,62,78",
                         "endOffsets": "2935,3090,3218,3329,3496,3623,3746,3852,4173,4279,4448,4574,4737,4919,4987,5050,5129"
+                    }
+                },
+                {
+                    "source": "/Users/shreyasv/.gradle/caches/transforms-3/55da2a9311ff8b32f0d42ac6d95a89c0/transformed/jetified-play-services-basement-18.0.1/res/values-nl/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "138",
+                        "endOffsets": "333"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "3857",
+                        "endColumns": "142",
+                        "endOffsets": "3995"
                     }
                 }
             ]
